@@ -1,0 +1,42 @@
+permalink: /:year/:month/:day/:title.html
+markdown: kramdown
+pygments: true
+
+kramdown:
+  input: GFM
+
+# 作者信息
+author: 
+  name: JustinDing
+  email: 8032780@gmail.com
+  link: http://justinding.org
+  weibo: http://weibo.com/justindin
+  github: http://github.com/justinding
+  twitter: JustinOsX
+  codepen: JustinDing
+  dribbble: JustinDing
+
+# 站点信息
+title: Justin.Ding' Blog 
+description: Justin.Ding' Blog 
+url: http://justinding.org
+rss_url: /pages/atom.xml
+
+# avatar头像及Favicon
+avatar: http://image.weiosx.com/58_avatar_big.jpg
+favicon: http://image.weiosx.com/Justin%20Ding_vCard.icns
+
+# google analytics 设置
+ga:
+  id: UA-60600385-1
+  url: justinding.org
+
+# disqus 设置
+disqus:
+  shortname: justinding
+  
+# Build settings
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap
