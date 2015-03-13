@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为 Jekyll 博客添加 category 分类
-category: Web开发
+category: blog
 tags: [Jekyll, category]
 keywords: Jekyll,博客,category,分类,
 description: 
