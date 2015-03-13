@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Mac下安装使用Docker
-category: 工具
+category: mac
 tags: [Mac, Docker]
 keywords: Mac,Docker
 description: 
