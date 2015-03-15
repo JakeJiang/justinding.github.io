@@ -12,8 +12,10 @@ description:
 ![Karabiner](http://image.weiosx.com/%E2%80%9CJustin%E2%80%99%E6%88%AA%E5%9B%BE%E2%80%9D%202015-03-15%20%E4%B8%8B%E5%8D%8810.45.42.jpg)
 
 ## 安装
-![安装](http://image.weiosx.com/%E2%80%9CJustin%E2%80%99%E6%88%AA%E5%9B%BE%E2%80%9D%202015-03-15%20%E4%B8%8B%E5%8D%8810.47.38.jpg)
+![安装](http://image.weiosx.com/%E2%80%9CJustin%E2%80%99%E6%88%AA%E5%9B%BE%E2%80%9D%202015-03-15%20%E4%B8%8B%E5%8D%8810.47.38.jpg)  
+  
 ## 打开 karabiner
+
 
 ![Karabiner](http://image.weiosx.com/karabiner.jpg)
 ![进入](http://image.weiosx.com/%E2%80%9CJustin%E2%80%99%E6%88%AA%E5%9B%BE%E2%80%9D%202015-03-15%20%E4%B8%8B%E5%8D%8810.49.34.jpg)
