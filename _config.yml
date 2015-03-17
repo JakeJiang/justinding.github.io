@@ -40,3 +40,9 @@ sass:
   style: compressed
 gems:
   - jekyll-sitemap
+  
+# 中文本地化
+locals:
+  blog: 博客
+  mac: Mac
+  vps: VPS
